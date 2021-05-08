@@ -23,7 +23,7 @@ TensorFlow "*cats_vs_dogs*" dataset are used in Both Model
 
 |Model            |EPOCHS|Batch_Size|Test Accuracy| Residual Blocks |
 |-----------------|------|----------|-------------|--|
-|Custom_Resnet_1  |25  |32  | 94.07 | 2   |
+|Custom_Resnet_1  |25  |32  | 93.50 | 2   |
 |Custom_Resnet_2  |36  |32  | 96.04 |  2 |
 
 
